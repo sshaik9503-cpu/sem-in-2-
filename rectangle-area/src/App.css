@@ -1,0 +1,46 @@
+.container {
+  width: 350px;
+  margin: 100px auto;
+  padding: 30px;
+  text-align: center;
+  background-color: #f0f8ff;
+  border-radius: 12px;
+  box-shadow: 0 0 10px gray;
+}
+
+h1 {
+  color: darkblue;
+  font-size: 25px;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  margin-top: 8px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
+
+h2 {
+  color: green;
+}
